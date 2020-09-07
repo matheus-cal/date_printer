@@ -1,4 +1,5 @@
-# Projeto_03
+# Date Printer
+
 Programa em Python que quando executado, mostre dia e hora no formato YYYY-mm-DD HH:DD:SS
 
 Exemplo de saída:
@@ -11,14 +12,15 @@ Exemplo de direcionamento:
 > python programa03.py > saida.txt
 
 
-# Project_03
-A Python Applicantion that show date and time in YYYY-mm-DD HH:DD:SS format everytime whe executed.
+# Date Printer
+
+A Python Applicantion that shows date and time in YYYY-mm-DD HH:DD:SS format everytime when executed.
 
 Output example:
 > python programa03.py
 2020-03-26 19:16:02
 
-Then, set Crontab to execute every minute, targeting the output to a text file named "saída.txt".
+Then, it sets Crontab to execute every minute, targeting the output to a text file named "saída.txt".
 
 Targeting example:
 > python programa03.py > saida.txt
